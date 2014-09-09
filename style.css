@@ -1,0 +1,32 @@
+.header {
+  font-family:'shift', "Lucida Grande",'sans-serif';
+  font-size:20px;
+  color:white;
+  background-color:#0A67A3;
+  padding:15px;
+  background-size:cover;
+  text-align:center;
+  
+}
+.nav {
+  background-color:#FF8500;
+  height:100px;
+  position:relative;
+  bottom:auto;
+  text-align:center;
+    padding:15px; 
+    
+}
+
+div li {
+  color:white;
+    text-decoration: none;
+}
+
+.filmer img {
+height:400px;
+width:280px;
+margin: 0px 0px 1px 1px;
+
+
+}
