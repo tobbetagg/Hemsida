@@ -8,25 +8,35 @@
   text-align:center;
   
 }
-.nav {
+footer {
   background-color:#FF8500;
-  height:100px;
-  position:relative;
-  bottom:auto;
+  height:50px;
+  position: fixed;
+    bottom: 0;
+    left: 0;
   text-align:center;
     padding:15px; 
+    width:1457px;
+    align-content: center;
     
 }
 
-div li {
+footer a {
   color:white;
-    text-decoration: none;
+    text-decoration:none;
+    font-size:30px;
 }
 
 .filmer img {
 height:400px;
 width:280px;
-margin: 0px 0px 1px 1px;
+
+
+
+
+}
+
+nav a=hover{
 
 
 }
